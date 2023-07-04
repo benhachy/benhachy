@@ -14,3 +14,11 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+
+- 🔭 Deep Learning Resarcher Intern @ AXA France
+- 🌱 Collaborating with MoroccoAI to build generative AI models for the moroccan dialect
+- 📫 How to reach me:
+  
+  [![Linkedin](https://i.stack.imgur.com/gVE0j.png) LinkedIn](https://www.linkedin.com/benhachem)
+&nbsp;
