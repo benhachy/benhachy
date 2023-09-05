@@ -3,7 +3,7 @@
 <!--
 **benhachy/benhachy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+Here are some ideas to get you started 
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
@@ -15,9 +15,9 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-
-- 🔭 Deep Learning Resarcher Intern @ AXA France
-- 🌱 Collaborating with MoroccoAI to build generative AI models for the moroccan dialect
+- 🧩 I love demistifying complex concepts 💡
+- 🔭 Data Scientist @ AXA France
+- 🌱 AI Developper @ MoroccoAI (Part Time), building generative AI models for the Arabic language
 - 📫 How to reach me:
   
   [![Linkedin](https://i.stack.imgur.com/gVE0j.png) LinkedIn](https://www.linkedin.com/benhachem)
