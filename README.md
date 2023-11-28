@@ -14,6 +14,7 @@ Here are some ideas to get you started
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+My motto is learning, building and contributing !  
 
 - 🧩 I love demistifying complex concepts 💡
 - 🔭 Data Scientist @ AXA France
