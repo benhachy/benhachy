@@ -21,5 +21,5 @@ My motto is learning, building and contributing !
 - 🌱 AI Developper @ MoroccoAI (Part Time), building generative AI models for the Arabic language
 - 📫 How to reach me:
   
-  [![Linkedin](https://i.stack.imgur.com/gVE0j.png) LinkedIn](https://www.linkedin.com/benhachem)
+  [![Linkedin](https://i.stack.imgur.com/gVE0j.png) LinkedIn](https://www.linkedin.com/in/benhachem)
 &nbsp;
